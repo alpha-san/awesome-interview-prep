@@ -13,5 +13,14 @@ For language-specific information, I've included a collection of Anki decks I've
 
 Note: It's useful to create your own as you learn the material and as you interview.
 
+Here is a list of included anki decks:
+- JavaScript (ES6)
+- Ruby/Rails
+- Rspec
+- SQL Interview Questions
+- System Design
+
+Note: SQL and System Design are useful if interviewing for mid-senior level positions.
+
 # System Design
 System design questions are commonly asked for mid-senior level positions.
